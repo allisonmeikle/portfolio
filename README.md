@@ -4,15 +4,15 @@ Welcome! Below are links to my assignments & projects, grouped by language/softw
 
 ## Assignments
 ### C
-- [Anagrams/Divisibility](https://github.com/allisonmeikle/anagrams_and_divisibility)
-- [Polynomial Evaluator](https://github.com/allisonmeikle/polynomial_evaluator)
+- [Anagrams/Divisibility](https://github.com/allisonmeikle/anagrams-and-divisibility)
+- [Polynomial Evaluator](https://github.com/allisonmeikle/polynomial-evaluator)
 - [Phonebook](https://github.com/allisonmeikle/phonebook)
 
 ### OCaml
 
 ## Projects
 ### C
-- [Operating System Project](https://github.com/allisonmeikle/operating_system_project)
+- [Operating System Project](https://github.com/allisonmeikle/operating-system-project)
 
 ### Java
 
