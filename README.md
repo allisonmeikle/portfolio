@@ -1,21 +1,21 @@
-### Portfolio
+# Portfolio
 
 Welcome! Below are links to my assignments & projects, grouped by language/software.
 
 ## Assignments
-# C
+### C
 - [Anagrams/Divisibility](https://github.com/allisonmeikle/anagrams_and_divisibility)
 - [Polynomial Evaluator](https://github.com/allisonmeikle/polynomial_evaluator)
 - [Phonebook](https://github.com/allisonmeikle/phonebook)
 
+### OCaml
+
 ## Projects
-# C
+### C
 - [Operating System Project](https://github.com/allisonmeikle/operating_system_project)
 
-# Java
+### Java
 
-# Logism-Evolution
+### Logism-Evolution
 
-# OCaml
-
-# Python
+### Python
