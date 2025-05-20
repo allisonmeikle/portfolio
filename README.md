@@ -17,5 +17,5 @@ Welcome! Below are links to my assignments & projects, grouped by language/softw
 ### Java
 
 ### Logism-Evolution
-
+- [Mini-MIPS CPU Circuit](https://github.com/allisonmeikle/mini-MIPS-CPU-circuit.git)
 ### Python
