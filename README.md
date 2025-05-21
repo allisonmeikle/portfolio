@@ -19,3 +19,4 @@ Welcome! Below are links to my assignments & projects, grouped by language/softw
 ### Logism-Evolution
 - [Mini-MIPS CPU Circuit](https://github.com/allisonmeikle/mini-MIPS-CPU-circuit.git)
 ### Python
+- [Gameplay Agent for Othello/Reversi](https://github.com/allisonmeikle/othello-gameplay-agent.git)
