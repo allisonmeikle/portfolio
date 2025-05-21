@@ -10,6 +10,9 @@ Welcome! Below are links to my assignments & projects, grouped by language/softw
 
 ### OCaml
 
+### Python
+- [Image Processing](https://github.com/allisonmeikle/image-processing.git)
+
 ## Projects
 ### C
 - [Operating System Project](https://github.com/allisonmeikle/operating-system-project)
