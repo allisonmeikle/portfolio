@@ -25,7 +25,7 @@ Welcome! Below are links to my projects & assignments, grouped by language/softw
 - [Phonebook](https://github.com/allisonmeikle/phonebook.git)
 
 ### Java
-- [Data Structures and Information Parsing](https://github.com/allisonmeikle/data-structures-and-information-parsing.git)
+- [OOP Caterpillar Game Simulation](https://github.com/allisonmeikle/oop-caterpillar-game.git)
 - [OOP Travel Agency Simulation](https://github.com/allisonmeikle/oop-travel-agency-simulation.git)
 
 ### MATLAB
