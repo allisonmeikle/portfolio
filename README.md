@@ -2,18 +2,6 @@
 
 Welcome! Below are links to my assignments & projects, grouped by language/software.
 
-## Assignments
-### C
-- [Anagrams/Divisibility](https://github.com/allisonmeikle/anagrams-and-divisibility.git)
-- [Polynomial Evaluator](https://github.com/allisonmeikle/polynomial-evaluator.git)
-- [Phonebook](https://github.com/allisonmeikle/phonebook.git)
-
-### OCaml
-- [Homework Assignments](https://github.com/allisonmeikle/ocaml-homeworks.git)
-
-### Python
-- [Image Processing](https://github.com/allisonmeikle/image-processing.git)
-
 ## Projects
 ### C
 - [Operating System Project](https://github.com/allisonmeikle/operating-system-project.git)
@@ -28,3 +16,18 @@ Welcome! Below are links to my assignments & projects, grouped by language/softw
 
 ### Python
 - [Gameplay Agent for Othello/Reversi](https://github.com/allisonmeikle/othello-gameplay-agent.git)
+
+## Assignments
+### C
+- [Anagrams/Divisibility](https://github.com/allisonmeikle/anagrams-and-divisibility.git)
+- [Polynomial Evaluator](https://github.com/allisonmeikle/polynomial-evaluator.git)
+- [Phonebook](https://github.com/allisonmeikle/phonebook.git)
+
+### MATLAB
+- [Homework Assignments](https://github.com/allisonmeikle/matlab-homeworks.git)
+
+### OCaml
+- [Homework Assignments](https://github.com/allisonmeikle/ocaml-homeworks.git)
+
+### Python
+- [Image Processing](https://github.com/allisonmeikle/image-processing.git)
