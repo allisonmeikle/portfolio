@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio. Below are selected projects and assignments, categorized by programming language and software. Featured projects are highlighted at the top, followed by a complete alphabetical listing.
+Welcome to my portfolio! Below are selected projects and assignments, categorized by programming language and software. Featured projects are highlighted at the top, followed by a complete alphabetical listing.
 
 ---
 
