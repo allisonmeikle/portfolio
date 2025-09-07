@@ -5,9 +5,9 @@ Welcome to my portfolio! Below are my projects and assignments, categorized by p
 ---
 
 ## Featured Projects
-- [Operating System Project](https://github.com/allisonmeikle/operating-system-project.git)
-- [Gameplay Agent for Othello/Reversi](https://github.com/allisonmeikle/othello-gameplay-agent.git)
 - [Dumbledore's Office (Virtual World Project)](https://github.com/allisonmeikle/dumbledores-office.git)
+- [Gameplay Agent for Othello/Reversi](https://github.com/allisonmeikle/othello-gameplay-agent.git)
+- [Operating System Project](https://github.com/allisonmeikle/operating-system-project.git)
 
 ---
 
