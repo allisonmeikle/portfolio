@@ -10,7 +10,7 @@ Welcome to my portfolio! Below are selected projects and assignments, categorize
 
 ---
 
-## Projects & Assignments
+## All Assignments & Projects
 ### C
 - [Anagrams/Divisibility](https://github.com/allisonmeikle/anagrams-and-divisibility.git)
 - [Operating System Project](https://github.com/allisonmeikle/operating-system-project.git)
