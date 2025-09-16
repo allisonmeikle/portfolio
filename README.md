@@ -38,3 +38,4 @@ Welcome to my portfolio! Below are my projects and assignments, categorized by p
 - [Dumbledore's Office (Virtual World Project)](https://github.com/allisonmeikle/dumbledores-office.git)
 - [Gameplay Agent for Othello/Reversi](https://github.com/allisonmeikle/othello-gameplay-agent.git)
 - [Image Processing](https://github.com/allisonmeikle/image-processing.git)
+- [Stealth Game Path Planning](https://github.com/allisonmeikle/stealth-path-planning.git)
